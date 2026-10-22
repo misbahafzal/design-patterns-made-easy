@@ -68,6 +68,10 @@ There are three groups:
 
 You don't need to memorize all 23. What helps is recognizing the problem each one solves, so next time you see a giant `if` chain or objects that know too much about each other, you know there's a well worn way out.
 
+## Credit
+
+The 23 patterns were first described in *Design Patterns: Elements of Reusable Object-Oriented Software* by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides (1994), often called the "Gang of Four" book. The explanations, analogies, and code here are my own.
+
 ## License
 
 [MIT](LICENSE). Use it, share it, teach with it.
